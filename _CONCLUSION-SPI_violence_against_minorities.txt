@@ -1,0 +1,11 @@
+_CONCLUSION-SPI_violence_against_minorities
+
+
+try these alphas, iterations combos (format=alpha, iterations, result(SPI_stdscaler_both_features_violence_against_minorities.txt for violence= 0.624867938 and 0.337401695); true= -0.781735475, 1.449994537
+
+0.003, 2000, 0.284520, 0.153629
+0.05, 3000, 0.285283, 0.154041
+
+
+OVERALL CONCLUSION:
+model works (without errors), but does not predict correctly.
