@@ -1,0 +1,2 @@
+# SPI
+Social Progress Index
